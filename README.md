@@ -10,6 +10,11 @@
 - CSS is used to style and position the cube and its faces. The key CSS properties that make this project work are transform, perspective, and @keyframes animations.
 - The cube is animated using the @keyframes animation called obracaniekostki, which rotates the cube in the Y and X axes. The animation is set to be infinite and alternate, so it keeps rotating back and forth.
 - The margin and position properties are used to position and center the cube on the screen.
+
+
+https://github.com/Dawidgolab/cube3d-html-css/assets/81014943/73f06332-34fb-41db-9a87-c6076c5b3117
+
+  
 ## How to Use
 - Clone or download this repository.
 - Open the index.html file in a modern web browser.
